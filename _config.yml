@@ -1,0 +1,8 @@
+title: "번역외전(飜譯外傳)"
+description: "기술 번역에 대한 이런저런 끄적거림들"
+baseurl: /translate
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+plugins:
+- jekyll-include-cache
+- jekyll-remote-theme
